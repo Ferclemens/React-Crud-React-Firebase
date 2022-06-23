@@ -1,3 +1,9 @@
+# construido con:
+ - Bootstrap 5.1.3
+ - Firebase 9.8.3
+ - Sweetalert2 11.4.18
+ - React Router 6.3.0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
